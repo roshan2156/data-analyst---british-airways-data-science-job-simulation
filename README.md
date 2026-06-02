@@ -1,6 +1,6 @@
 # British Airways Data Science Job Simulation 
 
-– Task 1
+# – Task 1
 
 ## Objective
 
@@ -120,7 +120,7 @@ This project developed a simple and scalable lounge demand forecasting model usi
 
 ---
 
-– Task 2
+# – Task 2
 
 ## Objective
 
